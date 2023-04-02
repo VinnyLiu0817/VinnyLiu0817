@@ -5,7 +5,7 @@
 
 ** Here are some ideas to get you started:-->
 
-- 🔭 I’m currently studying on SYSU
+- 🔭 I’m currently studying in SYSU
 - 🌱 I’m currently learning machine learning (federated learning)
 - 📫 How to reach me: liuwj0817@gmail.com
 - ⚡ Fun fact: TUK
