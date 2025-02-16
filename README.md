@@ -6,7 +6,7 @@
 ** Here are some ideas to get you started:-->
 
 - 🔭 I’m currently studying in HKU
-- 🌱 Research: Collaborative machine learning, MoE, Edge computing
+- 🌱 Research: Collaborative/Networked machine learning, Edge computing, Deep Learning Theory
 - 📫 How to reach me: liuwj0817@gmail.com
-- ⚡ Fun fact: TUK
+- ⚡ Fun fact: I am a big fan of TuK
 
